@@ -1,0 +1,7 @@
+data/
+input/
+*.csv
+*.zip
+*.gz
+.ipynb_checkpoints/
+*.pyc
